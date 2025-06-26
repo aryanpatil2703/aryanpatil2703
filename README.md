@@ -16,9 +16,8 @@ I love building real-world projects and solving problems through **backend syste
 ## 💡 What I’m Working On
 - 🚀 Building full-stack AI apps using **FastAPI**, **React**, and **HuggingFace**
 - ⚙️ Interning as an **AI Full Stack Developer** (Prodigal AI Training Program)
-- 🧠 Learning **Data Structures & Algorithms** for interviews
 - 🛠️ Exploring the world of **DeFi**, **Starknet**, and **Agentic AI**
-- 🎬 Creating **Minecraft-themed finance explainers** for YouTube (CPM-optimized content)
+
 
 ---
 
@@ -41,17 +40,17 @@ I love building real-world projects and solving problems through **backend syste
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-patil-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanpatil2703&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-patil-dev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpatil2703&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 How to Reach Me
 
-- 💌 Email: [patil.aryan.dev@gmail.com](mailto:patil.aryan.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aryanpatil-dev](https://linkedin.com/in/aryanpatil-dev)
+- 💌 Email: [aryanpatil2703@gmail.com](mailto:aryanpatil2703@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/aryan-patil-5966a5238](https://www.linkedin.com/in/aryan-patil-5966a5238/)
 - 🌐 Portfolio (soon): `Coming soon...`
 
 ---
