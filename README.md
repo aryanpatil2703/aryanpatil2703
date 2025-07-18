@@ -24,7 +24,7 @@ I love building real-world projects and solving problems through **backend syste
 ## 🧰 Tech Stack & Tools
 
 ### 💻 Languages
-`Python` `JavaScript` `Solidity` `SQL` `Java`
+`Python` `JavaScript` `Solidity` `PHP` `SQL` `Java`
 
 ### ⚙️ Frameworks & Libraries
 `FastAPI` `React.js` `Node.js` `Express.js` `LangChain` `AutoGPT` `Docker`
@@ -33,7 +33,7 @@ I love building real-world projects and solving problems through **backend syste
 `Ethereum` `Starknet` `ERC-4337` `ZK Proofs` `HuggingFace` `OpenAI APIs`
 
 ### 🧪 Tools & DevOps
-`Git` `GitHub` `Postman` `MongoDB` `Docker Compose` `CI/CD` `VS Code`
+`Git` `GitHub` `WordPress` `Postman` `PostgreSQL` `Docker Compose` `CI/CD` `VS Code`
 
 ---
 
