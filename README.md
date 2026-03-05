@@ -1,65 +1,59 @@
-# 👋 Hi there, I'm Aryan Patil
+# 👋 Hi — I’m Aryan Patil
 
-🎓 Final Year IT Student | 💻 Software Developer | ⚙️ Backend & Blockchain Enthusiast | 🤖 AI Full Stack Trainee
-
----
-
-## 🔍 About Me
-
-I'm a passionate and curious developer from India 🇮🇳 currently pursuing my final year in Information Technology.  
-I love building real-world projects and solving problems through **backend systems**, **AI-powered apps**, and **decentralized technologies**.
-
-> I believe in learning by building. Whether it's a full-stack AI app or a smart contract on Starknet, I enjoy crafting solutions from scratch.
+**AI / ML engineer & backend developer — building end-to-end AI products with Python and React.**  
+Final-year B.E. (IT) student (Class of 2026) · Open to internships (onsite, Hyderabad) · github.com/aryanpatil2703
 
 ---
 
-## 💡 What I’m Working On
-- 🚀 Building full-stack AI apps using **FastAPI**, **React**, and **HuggingFace**
-- ⚙️ Interning as an **AI Full Stack Developer** (Prodigal AI Training Program)
-- 🛠️ Exploring the world of **DeFi**, **Starknet**, and **Agentic AI**
-
+## 🔎 About Me
+I build production-ready backend systems and AI-enabled applications. I enjoy designing data pipelines, model inference flows, and reliable microservices that power real products — then shipping them quickly and iterating based on metrics and customer feedback.  
+Interests: backend systems, LLM/ML infrastructure, fintech for SMBs, and decentralized tech.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🛠 What I’m Working On
+- 🚀 **Data-Farmer** — Solo hackathon project for ingesting and analysing financial transaction datasets (HSBC Hackathon finalist).  
+- 🤖 **AI Fake-News Detector** — FastAPI backend + React frontend for model inference and user feedback.  
+- ♠️ **AceInsight** — Backend work on an AI-powered poker analytics product during my internship (performance & API improvements).  
+- ⚙️ Exploring serverless microservices on AWS and Retrieval-Augmented Generation (RAG) for LLM tasks.
 
-### 💻 Languages
-`Python` `JavaScript` `Solidity` `PHP` `SQL` `Java`
+---
 
-### ⚙️ Frameworks & Libraries
-`FastAPI` `React.js` `Node.js` `Express.js` `LangChain` `AutoGPT` `Docker`
+## 🧰 Tech Stack
+**Languages:** `Python` · `JavaScript` · `SQL` · `Solidity`  
+**Backend / APIs:** `FastAPI` · `Flask` · `Serverless (AWS Lambda / API Gateway)`  
+**Cloud & Infra:** `AWS (Lambda, S3, IAM, CloudWatch, SNS/SQS)` · Docker · CI/CD (GitHub Actions)  
+**Databases:** `PostgreSQL` · `MySQL` · `MongoDB`  
+**AI / LLM:** `Hugging Face Transformers` · `Prompt engineering` · `RAG`  
+**Frontend:** `React` · `Next.js`  
+**Tools:** Git · Postman · pytest · VS Code
 
-### 🔗 Blockchain & AI
-`Ethereum` `Starknet` `ERC-4337` `ZK Proofs` `HuggingFace` `OpenAI APIs`
+---
 
-### 🧪 Tools & DevOps
-`Git` `GitHub` `WordPress` `Postman` `PostgreSQL` `Docker Compose` `CI/CD` `VS Code`
+## 📂 Selected Projects (short)
+- **Data-Farmer** — Backend system to ingest, validate, index and expose large transaction datasets via low-latency REST APIs. (HSBC Hackathon finalist)  
+  Repo: `github.com/aryanpatil2703/Data-Farmer`  
+- **AI Fake-News Detector** — Full-stack prototype: React UI → FastAPI inference endpoints → SQL logging for feedback loops.  
+  Repo: `github.com/aryanpatil2703/fake-news-detector`  
+- **AceInsight (internship)** — Improved backend latency and reliability for a live AI poker analytics service; implemented session cleanup and optimized DB queries.  
+  Repo: `github.com/aryanpatil2703/aceinsight` (internal / demo)
+
+> Want the one-paragraph technical writeup for any repo? I can turn any project into a 2–3 line showcase you can paste into job apps.
 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanpatil2703&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanpatil2703&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpatil2703&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpatil2703&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
-
-- 💌 Email: [aryanpatil2703@gmail.com](mailto:aryanpatil2703@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/aryan-patil-5966a5238](https://www.linkedin.com/in/aryan-patil-5966a5238/)
-- 🌐 Portfolio (soon): `Coming soon...`
-
----
-
-## ✨ Fun Facts
-- I debug more than I sleep.
-- I love explaining complex topics in simple ways.
-- I’m probably building a new side project right now.
+## 📫 Contact
+- ✉️ aryanpatil2703@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/aryan-patil-5966a5238  
+- 🔗 Portfolio: *coming soon*
 
 ---
-
-Thanks for stopping by! ⭐ Feel free to connect or collaborate on any project!
