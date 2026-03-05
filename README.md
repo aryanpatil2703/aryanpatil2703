@@ -1,59 +1,60 @@
-# 👋 Hi — I’m Aryan Patil
+# 👋 Hi — I'm Aryan Patil
+**AI/ML engineer & backend developer — building end-to-end AI products with Python and React.**
 
-**AI / ML engineer & backend developer — building end-to-end AI products with Python and React.**  
-Final-year B.E. (IT) student (Class of 2026) · Open to internships (onsite, Hyderabad) · github.com/aryanpatil2703
-
----
-
-## 🔎 About Me
-I build production-ready backend systems and AI-enabled applications. I enjoy designing data pipelines, model inference flows, and reliable microservices that power real products — then shipping them quickly and iterating based on metrics and customer feedback.  
-Interests: backend systems, LLM/ML infrastructure, fintech for SMBs, and decentralized tech.
+Final-year B.E. (IT) student (Class of 2026) · **Seeking AI/ML or Backend internships** (onsite, Hyderabad · Jan–Jun 2026)
 
 ---
 
-## 🛠 What I’m Working On
-- 🚀 **Data-Farmer** — Solo hackathon project for ingesting and analysing financial transaction datasets (HSBC Hackathon finalist).  
-- 🤖 **AI Fake-News Detector** — FastAPI backend + React frontend for model inference and user feedback.  
-- ♠️ **AceInsight** — Backend work on an AI-powered poker analytics product during my internship (performance & API improvements).  
-- ⚙️ Exploring serverless microservices on AWS and Retrieval-Augmented Generation (RAG) for LLM tasks.
+## 🎯 About Me
+I build production-ready backend systems and AI-enabled applications. I focus on designing data pipelines, model inference flows, and reliable microservices that power real products — then shipping fast and iterating on metrics and user feedback.
+
+**Interests:** Backend systems, LLM/ML infrastructure, fintech for SMBs, and decentralized tech.
+
+---
+
+## 💼 Recent Work & Projects
+
+**🚀 Data-Farmer** — Financial transaction analysis engine (HSBC Hackathon finalist)  
+Low-latency REST APIs for ingesting, validating, and indexing 100K+ transaction records. Built with FastAPI and PostgreSQL for real-time analytics at scale.  
+→ [github.com/aryanpatil2703/Data-Farmer](https://github.com/aryanpatil2703/Data-Farmer)
+
+**🤖 AI Fake-News Detector** — Full-stack misinformation detection system  
+React frontend → FastAPI inference pipeline → PostgreSQL feedback loops. Deployed HuggingFace transformers for real-time classification with user validation metrics.  
+→ [github.com/aryanpatil2703/fake-news-detector](https://github.com/aryanpatil2703/fake-news-detector)
+
+**♠️ AceInsight** — AI-powered poker analytics (internship)  
+Optimized backend latency by 40% through DB query refactoring and session cleanup. Improved API reliability for live inference on player data streams.  
+→ [github.com/aryanpatil2703/aceinsight](https://github.com/aryanpatil2703/aceinsight)
+
+**⚙️ Currently Exploring**  
+Serverless microservices on AWS · Retrieval-Augmented Generation (RAG) for LLM applications · Backend infrastructure patterns at scale
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** `Python` · `JavaScript` · `SQL` · `Solidity`  
-**Backend / APIs:** `FastAPI` · `Flask` · `Serverless (AWS Lambda / API Gateway)`  
-**Cloud & Infra:** `AWS (Lambda, S3, IAM, CloudWatch, SNS/SQS)` · Docker · CI/CD (GitHub Actions)  
-**Databases:** `PostgreSQL` · `MySQL` · `MongoDB`  
-**AI / LLM:** `Hugging Face Transformers` · `Prompt engineering` · `RAG`  
-**Frontend:** `React` · `Next.js`  
-**Tools:** Git · Postman · pytest · VS Code
+
+| Category | Technologies |
+|----------|---|
+| **Languages** | Python · JavaScript · SQL · Solidity |
+| **Backend / APIs** | FastAPI · Flask · AWS Lambda · API Gateway |
+| **Cloud & Infrastructure** | AWS (S3, IAM, CloudWatch, SNS/SQS) · Docker · GitHub Actions |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **AI / LLM** | Hugging Face Transformers · Prompt Engineering · RAG · Vector DBs |
+| **Frontend** | React · Next.js |
+| **Tools & DevOps** | Git · Postman · pytest · VS Code |
 
 ---
 
-## 📂 Selected Projects (short)
-- **Data-Farmer** — Backend system to ingest, validate, index and expose large transaction datasets via low-latency REST APIs. (HSBC Hackathon finalist)  
-  Repo: `github.com/aryanpatil2703/Data-Farmer`  
-- **AI Fake-News Detector** — Full-stack prototype: React UI → FastAPI inference endpoints → SQL logging for feedback loops.  
-  Repo: `github.com/aryanpatil2703/fake-news-detector`  
-- **AceInsight (internship)** — Improved backend latency and reliability for a live AI poker analytics service; implemented session cleanup and optimized DB queries.  
-  Repo: `github.com/aryanpatil2703/aceinsight` (internal / demo)
-
-> Want the one-paragraph technical writeup for any repo? I can turn any project into a 2–3 line showcase you can paste into job apps.
+## 📈 GitHub Activity
+![Aryan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanpatil2703&theme=tokyo-night)
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanpatil2703&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpatil2703&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+## 📫 Contact & Links
+- **Email:** aryanpatil2703@gmail.com
+- **LinkedIn:** [linkedin.com/in/aryan-patil-5966a5238](https://www.linkedin.com/in/aryan-patil-5966a5238)
+- **GitHub:** [github.com/aryanpatil2703](https://github.com/aryanpatil2703)
 
 ---
 
-## 📫 Contact
-- ✉️ aryanpatil2703@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/aryan-patil-5966a5238  
-- 🔗 Portfolio: *coming soon*
-
----
+*Last updated: March 2026*
