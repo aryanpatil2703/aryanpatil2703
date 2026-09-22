@@ -101,7 +101,7 @@ AWS architectures, Dockerized services, CI/CD, networking, observability, high a
 
 ---
 
-### ☁️ Highly Available WordPress on AWS
+### ☁️ [Highly Available WordPress on AWS](https://github.com/aryanpatil2703/aws-wordpress-ha-architecture)
 
 **Production-style AWS architecture designed for availability and fault tolerance.**
 
