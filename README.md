@@ -14,7 +14,7 @@ I build **production-ready AI systems, backend services, and cloud infrastructur
 
 ## 🧠 About Me
 
-I'm an **Information Technology graduate** with hands-on experience building AI-powered applications, automation workflows, backend systems, and cloud infrastructure.
+Software Developer with hands-on experience building and deploying backend services, AI-powered applications, and cloud infrastructure on AWS. Strong foundation in Java, Python, SQL, Spring Boot, AWS, Docker, and distributed systems, with practical experience developing production-oriented APIs, automation workflows, and scalable cloud deployments
 
 My work spans:
 
@@ -24,7 +24,7 @@ My work spans:
 - 🎙️ **Real-Time AI** — voice agents, STT/TTS pipelines, telephony integrations, conversation workflows
 - ⛓️ **Web3** — smart contracts, blockchain integrations, AI + decentralized applications
 
-Currently working as a **Software Developer Intern at QuickInfraCloud**, contributing to backend services, APIs, AWS-hosted applications, and production infrastructure.
+Currently working as a **Software Developer Intern at Salesgarners**, contributing to backend services, APIs, AWS-hosted applications, and production infrastructure.
 
 ---
 
