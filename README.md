@@ -182,7 +182,7 @@ AWS architectures, Dockerized services, CI/CD, networking, observability, high a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpatil2703&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpatil2703&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Aryan's GitHub activity graph" />
 </p>
 
 ---
