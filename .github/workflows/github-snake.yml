@@ -1,0 +1,40 @@
+name: Update GitHub Contribution Graph
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: aryanpatil2703
+          outputs: |
+            assets/github-contribution-snake.svg?palette=github-dark
+
+      - name: Commit updated graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contribution-snake.svg
+          if git diff --cached --quiet; then
+            echo "No contribution graph changes."
+            exit 0
+          fi
+          git commit -m "chore: update contribution graph"
+          git push
