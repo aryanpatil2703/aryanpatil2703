@@ -170,19 +170,14 @@ AWS architectures, Dockerized services, CI/CD, networking, observability, high a
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanpatil2703&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpatil2703&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://ghchart.rshah.org/aryanpatil2703" alt="Aryan's GitHub contribution activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpatil2703&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpatil2703&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Aryan's GitHub activity graph" />
+  <a href="https://github.com/aryanpatil2703">View full GitHub profile →</a>
 </p>
 
 ---
